@@ -1,6 +1,6 @@
 # ML_course_Task3
 
-# Problem setup
+## Problem setup
 
 In this assignment you are asked to apply ANNs in order to classify a given silhouette (image) of a vehicle as one of four types
 - a double decker bus (class 0),
